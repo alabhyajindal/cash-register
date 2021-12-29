@@ -1,0 +1,11 @@
+html {
+  max-width: 70rem;
+  font-size: large;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  max-width: 20rem;
+  gap: 1rem;
+}
